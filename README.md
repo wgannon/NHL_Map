@@ -1,4 +1,4 @@
-# https://wgannon.github.io/NHL_Map
+# https://wgannon.github.io/NHL_Map/
 NHL Attendance Map
 This map is the compilation of the attendance record from each team over the course of 20 years.
 
