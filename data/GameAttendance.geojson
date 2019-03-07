@@ -1,0 +1,749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 23,
+        "TEAM": "Anaheim Ducks",
+        "2018-2019 SEASON": 17091,
+        "2016-2017 SEASON": 16665,
+        "2014-2015 SEASON": 17066,
+        "2012-2013 SEASON": 16705,
+        "2010-2011 SEASON": 15914,
+        "2008-2009 SEASON": 17246,
+        "2006-2007 SEASON": 16585,
+        "2002-2003 SEASON": 15301,
+        "2000-2001 SEASON": 15072,
+        "RINK CITY": "Anaheim, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9152374,
+          33.832859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 29,
+        "TEAM": "Arizona Coyotes",
+        "2018-2019 SEASON": 15717,
+        "2016-2017 SEASON": 15202,
+        "2014-2015 SEASON": 15362,
+        "2012-2013 SEASON": 15826,
+        "2010-2011 SEASON": 14454,
+        "2008-2009 SEASON": 16095,
+        "2006-2007 SEASON": 15781,
+        "2002-2003 SEASON": 14713,
+        "2000-2001 SEASON": 15443,
+        "RINK CITY": "Glendale, Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1862717,
+          33.5386086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 17,
+        "TEAM": "Boston Bruins",
+        "2018-2019 SEASON": 18528,
+        "2016-2017 SEASON": 17700,
+        "2014-2015 SEASON": 17778,
+        "2012-2013 SEASON": 18005,
+        "2010-2011 SEASON": 17706,
+        "2008-2009 SEASON": 17597,
+        "2006-2007 SEASON": 16366,
+        "2002-2003 SEASON": 16025,
+        "2000-2001 SEASON": 15947,
+        "RINK CITY": "Boston, Massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0567398,
+          42.3586617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 15,
+        "TEAM": "Buffalo Sabres",
+        "2018-2019 SEASON": 17612,
+        "2016-2017 SEASON": 17688,
+        "2014-2015 SEASON": 17913,
+        "2012-2013 SEASON": 18172,
+        "2010-2011 SEASON": 17744,
+        "2008-2009 SEASON": 18031,
+        "2006-2007 SEASON": 18160,
+        "2002-2003 SEASON": 15379,
+        "2000-2001 SEASON": 17004,
+        "RINK CITY": "Buffalo, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784637,
+          42.8854408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 10,
+        "TEAM": "Calgary Flames",
+        "2018-2019 SEASON": 17680,
+        "2016-2017 SEASON": 17961,
+        "2014-2015 SEASON": 18158,
+        "2012-2013 SEASON": 17988,
+        "2010-2011 SEASON": 17906,
+        "2008-2009 SEASON": 18281,
+        "2006-2007 SEASON": 18171,
+        "2002-2003 SEASON": 16335,
+        "2000-2001 SEASON": 16563,
+        "RINK CITY": "Calgary, Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0630112,
+          51.0453186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 28,
+        "TEAM": "Carolina Hurricanes",
+        "2018-2019 SEASON": 15438,
+        "2016-2017 SEASON": 14449,
+        "2014-2015 SEASON": 14958,
+        "2012-2013 SEASON": 17652,
+        "2010-2011 SEASON": 16602,
+        "2008-2009 SEASON": 16849,
+        "2006-2007 SEASON": 17185,
+        "2002-2003 SEASON": 15644,
+        "2000-2001 SEASON": 14465,
+        "RINK CITY": "Raleigh, North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6426697,
+          35.785511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 1,
+        "TEAM": "Chicago Blackhawks",
+        "2018-2019 SEASON": 20164,
+        "2016-2017 SEASON": 20168,
+        "2014-2015 SEASON": 20199,
+        "2012-2013 SEASON": 19969,
+        "2010-2011 SEASON": 19649,
+        "2008-2009 SEASON": 19896,
+        "2006-2007 SEASON": 14706,
+        "2002-2003 SEASON": 15959,
+        "2000-2001 SEASON": 15812,
+        "RINK CITY": "Chicago, Illinois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6324463,
+          41.8842506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 22,
+        "TEAM": "Colorado Avalanche",
+        "2018-2019 SEASON": 16814,
+        "2016-2017 SEASON": 16125,
+        "2014-2015 SEASON": 16776,
+        "2012-2013 SEASON": 16626,
+        "2010-2011 SEASON": 15970,
+        "2008-2009 SEASON": 16317,
+        "2006-2007 SEASON": 17430,
+        "2002-2003 SEASON": 17623,
+        "2000-2001 SEASON": 17688,
+        "RINK CITY": "Denver, Colorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9920197,
+          39.7400093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 24,
+        "TEAM": "Columbus Blue Jackets",
+        "2018-2019 SEASON": 16784,
+        "2016-2017 SEASON": 16473,
+        "2014-2015 SEASON": 16289,
+        "2012-2013 SEASON": 15983,
+        "2010-2011 SEASON": 15165,
+        "2008-2009 SEASON": 16563,
+        "2006-2007 SEASON": 16315,
+        "2002-2003 SEASON": 16941,
+        "2000-2001 SEASON": 16729,
+        "RINK CITY": "Columbus, Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027466,
+          39.9619904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 13,
+        "TEAM": "Dallas Stars",
+        "2018-2019 SEASON": 17544,
+        "2016-2017 SEASON": 17893,
+        "2014-2015 SEASON": 17483,
+        "2012-2013 SEASON": 16955,
+        "2010-2011 SEASON": 15958,
+        "2008-2009 SEASON": 17321,
+        "2006-2007 SEASON": 17322,
+        "2002-2003 SEASON": 17621,
+        "2000-2001 SEASON": 16674,
+        "RINK CITY": "Dallas, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7954025,
+          32.7781487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 6,
+        "TEAM": "Detroit Red Wings",
+        "2018-2019 SEASON": 18347,
+        "2016-2017 SEASON": 19215,
+        "2014-2015 SEASON": 18937,
+        "2012-2013 SEASON": 19227,
+        "2010-2011 SEASON": 18952,
+        "2008-2009 SEASON": 19346,
+        "2006-2007 SEASON": 18487,
+        "2002-2003 SEASON": 19083,
+        "2000-2001 SEASON": 18942,
+        "RINK CITY": "Detroit, Michigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0479965,
+          42.3316803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 11,
+        "TEAM": "Edmonton Oilers",
+        "2018-2019 SEASON": 17805,
+        "2016-2017 SEASON": 18091,
+        "2014-2015 SEASON": 16970,
+        "2012-2013 SEASON": 17274,
+        "2010-2011 SEASON": 16957,
+        "2008-2009 SEASON": 17025,
+        "2006-2007 SEASON": 16958,
+        "2002-2003 SEASON": 16696,
+        "2000-2001 SEASON": 16199,
+        "RINK CITY": "Edmonton, Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4903717,
+          53.5462418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 30,
+        "TEAM": "Florida Panthers",
+        "2018-2019 SEASON": 15122,
+        "2016-2017 SEASON": 16090,
+        "2014-2015 SEASON": 14562,
+        "2012-2013 SEASON": 17439,
+        "2010-2011 SEASON": 16329,
+        "2008-2009 SEASON": 16330,
+        "2006-2007 SEASON": 15970,
+        "2002-2003 SEASON": 15675,
+        "2000-2001 SEASON": 15469,
+        "RINK CITY": "Sunrise, Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2949295,
+          26.1686802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 14,
+        "TEAM": "Los Angeles Kings",
+        "2018-2019 SEASON": 17714,
+        "2016-2017 SEASON": 17765,
+        "2014-2015 SEASON": 18419,
+        "2012-2013 SEASON": 17820,
+        "2010-2011 SEASON": 17564,
+        "2008-2009 SEASON": 16958,
+        "2006-2007 SEASON": 16699,
+        "2002-2003 SEASON": 17057,
+        "2000-2001 SEASON": 16316,
+        "RINK CITY": "Los Angeles, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2453232,
+          34.0534897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 7,
+        "TEAM": "Minnesota Wild",
+        "2018-2019 SEASON": 18231,
+        "2016-2017 SEASON": 18322,
+        "2014-2015 SEASON": 18379,
+        "2012-2013 SEASON": 18025,
+        "2010-2011 SEASON": 17228,
+        "2008-2009 SEASON": 17834,
+        "2006-2007 SEASON": 17708,
+        "2002-2003 SEASON": 17468,
+        "2000-2001 SEASON": 17260,
+        "RINK CITY": "Saint Paul, Minnesota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0964813,
+          44.9433899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 2,
+        "TEAM": "Montreal Canadiens",
+        "2018-2019 SEASON": 19262,
+        "2016-2017 SEASON": 19350,
+        "2014-2015 SEASON": 19493,
+        "2012-2013 SEASON": 19459,
+        "2010-2011 SEASON": 19396,
+        "2008-2009 SEASON": 19518,
+        "2006-2007 SEASON": 19107,
+        "2002-2003 SEASON": 18508,
+        "2000-2001 SEASON": 18059,
+        "RINK CITY": "Montreal, Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5546875,
+          45.5124016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 18,
+        "TEAM": "Nashville Predators",
+        "2018-2019 SEASON": 17413,
+        "2016-2017 SEASON": 17134,
+        "2014-2015 SEASON": 16930,
+        "2012-2013 SEASON": 17181,
+        "2010-2011 SEASON": 16215,
+        "2008-2009 SEASON": 16297,
+        "2006-2007 SEASON": 15580,
+        "2002-2003 SEASON": 14698,
+        "2000-2001 SEASON": 15704,
+        "RINK CITY": "Nashville, Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781601,
+          36.1678391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 26,
+        "TEAM": "New Jersey Devils",
+        "2018-2019 SEASON": 15869,
+        "2016-2017 SEASON": 15888,
+        "2014-2015 SEASON": 16223,
+        "2012-2013 SEASON": 17547,
+        "2010-2011 SEASON": 16282,
+        "2008-2009 SEASON": 16767,
+        "2006-2007 SEASON": 15751,
+        "2002-2003 SEASON": 15922,
+        "2000-2001 SEASON": 16142,
+        "RINK CITY": "Newark, New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1742096,
+          40.7319717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 31,
+        "TEAM": "NY Islanders",
+        "2018-2019 SEASON": 14740,
+        "2016-2017 SEASON": 15306,
+        "2014-2015 SEASON": 16486,
+        "2012-2013 SEASON": 15772,
+        "2010-2011 SEASON": 14220,
+        "2008-2009 SEASON": 15739,
+        "2006-2007 SEASON": 15034,
+        "2002-2003 SEASON": 15600,
+        "2000-2001 SEASON": 14026,
+        "RINK CITY": "Brooklyn, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9903564,
+          40.6924515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 19,
+        "TEAM": "NY Rangers",
+        "2018-2019 SEASON": 17225,
+        "2016-2017 SEASON": 17957,
+        "2014-2015 SEASON": 17919,
+        "2012-2013 SEASON": 17828,
+        "2010-2011 SEASON": 17858,
+        "2008-2009 SEASON": 18013,
+        "2006-2007 SEASON": 18032,
+        "2002-2003 SEASON": 17870,
+        "2000-2001 SEASON": 17914,
+        "RINK CITY": "New York, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0071411,
+          40.71455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 27,
+        "TEAM": "Ottawa Senators",
+        "2018-2019 SEASON": 15947,
+        "2016-2017 SEASON": 17066,
+        "2014-2015 SEASON": 17652,
+        "2012-2013 SEASON": 18564,
+        "2010-2011 SEASON": 17764,
+        "2008-2009 SEASON": 18155,
+        "2006-2007 SEASON": 18162,
+        "2002-2003 SEASON": 16467,
+        "2000-2001 SEASON": 17052,
+        "RINK CITY": "Ottawa, Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6911621,
+          45.4217796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 3,
+        "TEAM": "Philadelphia Flyers",
+        "2018-2019 SEASON": 19084,
+        "2016-2017 SEASON": 19106,
+        "2014-2015 SEASON": 18281,
+        "2012-2013 SEASON": 18983,
+        "2010-2011 SEASON": 18620,
+        "2008-2009 SEASON": 18544,
+        "2006-2007 SEASON": 17970,
+        "2002-2003 SEASON": 17908,
+        "2000-2001 SEASON": 18378,
+        "RINK CITY": "Philadelphia, Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.162178,
+          39.9522209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 8,
+        "TEAM": "Pittsburgh Penguins",
+        "2018-2019 SEASON": 18821,
+        "2016-2017 SEASON": 18802,
+        "2014-2015 SEASON": 18303,
+        "2012-2013 SEASON": 18253,
+        "2010-2011 SEASON": 18112,
+        "2008-2009 SEASON": 17483,
+        "2006-2007 SEASON": 17107,
+        "2002-2003 SEASON": 16060,
+        "2000-2001 SEASON": 17051,
+        "RINK CITY": "Pittsburgh, Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9973373,
+          40.4385109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 20,
+        "TEAM": "San Jose Sharks",
+        "2018-2019 SEASON": 17319,
+        "2016-2017 SEASON": 17167,
+        "2014-2015 SEASON": 17913,
+        "2012-2013 SEASON": 17368,
+        "2010-2011 SEASON": 17381,
+        "2008-2009 SEASON": 17580,
+        "2006-2007 SEASON": 16851,
+        "2002-2003 SEASON": 16874,
+        "2000-2001 SEASON": 16785,
+        "RINK CITY": "San Jose, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8854218,
+          37.3386497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 21,
+        "TEAM": "St. Louis Blues",
+        "2018-2019 SEASON": 17278,
+        "2016-2017 SEASON": 18363,
+        "2014-2015 SEASON": 17877,
+        "2012-2013 SEASON": 17432,
+        "2010-2011 SEASON": 17689,
+        "2008-2009 SEASON": 17873,
+        "2006-2007 SEASON": 14632,
+        "2002-2003 SEASON": 17398,
+        "2000-2001 SEASON": 18209,
+        "RINK CITY": "St. Louis, Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995621,
+          38.6277504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 5,
+        "TEAM": "Tampa Bay Lightning",
+        "2018-2019 SEASON": 18026,
+        "2016-2017 SEASON": 18120,
+        "2014-2015 SEASON": 18138,
+        "2012-2013 SEASON": 18304,
+        "2010-2011 SEASON": 17119,
+        "2008-2009 SEASON": 16753,
+        "2006-2007 SEASON": 18338,
+        "2002-2003 SEASON": 16514,
+        "2000-2001 SEASON": 15259,
+        "RINK CITY": "Tampa, Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4592667,
+          27.9465294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 4,
+        "TEAM": "Toronto Maple Leafs",
+        "2018-2019 SEASON": 18391,
+        "2016-2017 SEASON": 18568,
+        "2014-2015 SEASON": 18249,
+        "2012-2013 SEASON": 18726,
+        "2010-2011 SEASON": 18124,
+        "2008-2009 SEASON": 18316,
+        "2006-2007 SEASON": 18324,
+        "2002-2003 SEASON": 18174,
+        "2000-2001 SEASON": 18215,
+        "RINK CITY": "Toronto, Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385437,
+          43.6486893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 16,
+        "TEAM": "Vancouver Canucks",
+        "2018-2019 SEASON": 17389,
+        "2016-2017 SEASON": 17803,
+        "2014-2015 SEASON": 17933,
+        "2012-2013 SEASON": 18188,
+        "2010-2011 SEASON": 17987,
+        "2008-2009 SEASON": 17880,
+        "2006-2007 SEASON": 17885,
+        "2002-2003 SEASON": 17503,
+        "2000-2001 SEASON": 16896,
+        "RINK CITY": "Vancouver, British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1133575,
+          49.2603798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 12,
+        "TEAM": "Vegas Golden Knights",
+        "2018-2019 SEASON": 17832,
+        "2016-2017 SEASON": 15000,
+        "2014-2015 SEASON": 15000,
+        "2012-2013 SEASON": 16000,
+        "2010-2011 SEASON": 15000,
+        "2008-2009 SEASON": 16000,
+        "2006-2007 SEASON": 15000,
+        "2002-2003 SEASON": 15000,
+        "2000-2001 SEASON": 15000,
+        "RINK CITY": "Paradise, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1150208,
+          36.0998993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 9,
+        "TEAM": "Washington Capitals",
+        "2018-2019 SEASON": 17961,
+        "2016-2017 SEASON": 17884,
+        "2014-2015 SEASON": 18192,
+        "2012-2013 SEASON": 17836,
+        "2010-2011 SEASON": 17781,
+        "2008-2009 SEASON": 17772,
+        "2006-2007 SEASON": 15654,
+        "2002-2003 SEASON": 15982,
+        "2000-2001 SEASON": 16041,
+        "RINK CITY": "Washington, D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0319595,
+          38.8903694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CURRENT RANK": 25,
+        "TEAM": "Winnipeg Jets",
+        "2018-2019 SEASON": 16385,
+        "2016-2017 SEASON": 16682,
+        "2014-2015 SEASON": 16222,
+        "2012-2013 SEASON": 16497,
+        "2010-2011 SEASON": 15075,
+        "2008-2009 SEASON": 15885,
+        "2006-2007 SEASON": 16539,
+        "2002-2003 SEASON": 14702,
+        "2000-2001 SEASON": 15429,
+        "RINK CITY": "Winnipeg, Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1411285,
+          49.8995285
+        ]
+      }
+    }
+  ]
+}

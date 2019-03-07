@@ -1,0 +1,99 @@
+/* Stylesheet by William D Gannon, 2019 */
+
+.sequence-control-container {
+	width: 350px;
+	height: 30px;
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 10px;
+	line-height: 45px;
+	text-align: center;
+	border: solid gray 1px;
+}
+
+.range-slider {
+	width: 200px;
+}
+
+
+#select-drop-down {
+	width: 268px;
+	padding: 5px;
+	font-size: 16px;
+	line-height: 1;
+	border: 0;
+	border-radius: 5px;
+	height: 34px;
+	background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right white;
+	-webkit-appearance: none;
+	background-position-x: 244px;
+	-moz-appearance: none;
+	box-shadow: 4px 4px;
+}
+
+#legend-season {
+	font-size: 16pt;
+}
+
+.hover-team {
+	font-size: 9pt;
+}
+
+#mapid {
+	height: 97vh;
+	width: 80%;
+	display: inline-block;
+}
+
+.leaflet-popup-content p {
+	margin: 0.3em 0;
+}
+
+.sequence-control-container {
+	width: 295px;
+	height: 30px;
+	background-color: white;
+	padding: 10px;
+	line-height: 45px;
+	text-align: center;
+	box-shadow: 4px 4px;
+	border: 0;
+}
+
+.legend-control-container {
+	width: ;
+	height: ;
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 6px;
+	border: 0;
+	line-height: 45px;
+	text-align: center;
+	font-size: 15px;
+	font-family: Arial, sans-serif;
+	box-shadow: 4px 4px;
+}
+
+.range-slider {
+	width: 200px;
+}
+
+.skip {
+	width: 35px;
+	height: 35px;
+	margin-top: 1px;
+}
+
+#forward {
+	float: right;
+}
+
+#reverse {
+	float: left;
+}
+
+a:visited {
+	color: black;
+}
+
+a:link {
+	color: black;
+}
