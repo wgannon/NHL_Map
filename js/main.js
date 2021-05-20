@@ -66,9 +66,9 @@ function createSequenceControls(map, attributes, geodata) {
 function addSequencing(map, attributes, geodata) {
 
 	$('.range-slider').attr({
-		max: 8,
+		max: 9,
 		min: 0,
-		value: 8,
+		value: 9,
 		step: 1
 	});
 
@@ -80,12 +80,12 @@ function addSequencing(map, attributes, geodata) {
 		if ($(this).attr('id') == 'forward') {
 			index++;
 			//if past the last attribute, wrap around to first attribute
-			index = index > 8 ? 0 : index;
+			index = index > 9 ? 0 : index;
 
 		} else if ($(this).attr('id') == 'reverse') {
 			index--;
 			//if past the first attribute, wrap around to last attribute
-			index = index < 0 ? 8 : index;
+			index = index < 0 ? 9 : index;
 		}
 
 		//update slider
